@@ -71,7 +71,7 @@ main {
 }
 body {
   background-color: #0891ac;
-  background-image: url(download.jpeg);
+  background-image: url(music/download.jpeg);
   background-repeat: repeat-x;
   background-position: top left;
 }      
