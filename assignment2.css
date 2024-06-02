@@ -1,0 +1,77 @@
+.specialp {
+    color: #6fa4da;
+  }
+  #specialid {
+    background-color: #cf57dd;
+  }
+ h1 {
+    color: #f08b47;
+    text-align: center;
+}
+h2 {
+  color: #f08b47;
+    text-align: center;
+}
+  #divexample {
+    background-color: aquamarine;
+    text-align: justify;
+  }
+  .spanstyle {
+    color: #f30b0b;
+  }
+  a {
+    color: #ff0000;
+  }
+  
+  a:link {
+    color: #ff0026;
+  }
+  
+  a:visited {
+    color: #12e042;
+  }
+  
+  a:active {
+    color: #f30b0b;
+  }
+  
+  a:hover {
+    color: #ffff00;
+  }        
+  .fontcombined {
+    font: bold 16px Arial, Helvetica, sans-serif;
+}
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 32px;
+}
+h2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 32px;
+}
+body {
+  background-color: #0891ac;
+}
+
+main {
+  background-color: #b5d2c2;
+}            
+.imgbox {
+  border: 4px solid #000000;
+  padding: 10px 10px 10px 10px;
+  margin: 20px 20px 20px 20px;
+  background-color: #ffff00;
+}
+.textcenter {
+  text-align: center;
+}
+body {
+  background-color: #0891ac;
+  background-image: url(music/download.jpeg);
+  background-repeat: repeat-x;
+  background-position: top left;
+}      
