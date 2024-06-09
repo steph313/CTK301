@@ -83,7 +83,7 @@ main{
     text-decoration: none;
    font-weight: bold;
   }
-  a:hover {
+  p a:hover {
     color: #002fff;
     text-decoration: underline;
   }  
